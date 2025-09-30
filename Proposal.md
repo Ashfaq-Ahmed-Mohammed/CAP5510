@@ -26,3 +26,20 @@ Sequence alignment is fundamental to bioinformatics for comparing proteins and u
 ## Workload distribution:
 
 - Workload will be distributed evenly amongst members. We plan to meet regularly and work together on all aspects of the project. Different parts of the code will be implemented separately, and we will combine our results.Documentation tasks will be split up, but verified and proofread by each team member.
+
+
+## References:
+
+- Marco-Sola S, et al. (2021). Fast gap-affine pairwise alignment using the wavefront algorithm. Bioinformatics 37(4):456-463
+
+- Günther M, Nettelblad C. (2023). The Long Road to Accurate Pairwise Sequence Alignment. PLoS Comput Biol 19(4):e1010999
+
+- Zhang Z, et al. (2025). QuickEd: high-performance exact sequence alignment based on bound-and-align strategy. Bioinformatics 41(3):btaf112
+
+- Cock PJA, et al. (2022). Biopython: freely available Python tools for computational molecular biology. Bioinformatics 38(23):5813-5815
+
+
+## Datasets:
+
+- NCBI Protein Database - Mammalian hemoglobin α chains (100 sequences)
+https://www.ncbi.nlm.nih.gov/protein/?term=hemoglobin+alpha+AND+Mammalia[Organism]
