@@ -23,3 +23,6 @@ Sequence alignment is fundamental to bioinformatics for comparing proteins and u
 - Generate pairwise similarity matrices and create simple distance-based clustering visualization.
 
 
+## Workload distribution:
+
+- Workload will be distributed evenly amongst members. We plan to meet regularly and work together on all aspects of the project. Different parts of the code will be implemented separately, and we will combine our results.Documentation tasks will be split up, but verified and proofread by each team member.
