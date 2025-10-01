@@ -12,15 +12,15 @@ Sequence alignment is fundamental to bioinformatics for comparing proteins and u
 
 ## Plan of Action
 
-- Study and understand the various prediction algorithms by reading relevant papers.
+1. Study and understand the various prediction algorithms by reading relevant papers.
 
-- Retrieve mammalian hemoglobin α sequences from NCBI Protein database using automated scripts (Biopython/Entrez).
+2. Retrieve mammalian hemoglobin α sequences from NCBI Protein database using automated scripts (Biopython/Entrez).
 
-- Implement three algorithms: Needleman-Wunsch (global), Smith-Waterman (local), and Semi-global alignment with pluggable scoring matrices.
+3. Implement three algorithms: Needleman-Wunsch (global), Smith-Waterman (local), and Semi-global alignment with pluggable scoring matrices.
 
-- Test algorithm accuracy against ClustalW/MUSCLE on a small subset of sequences and analyze computational performance.
+4. Test algorithm accuracy against ClustalW/MUSCLE on a small subset of sequences and analyze computational performance.
 
-- Generate pairwise similarity matrices and create simple distance-based clustering visualization.
+5. Generate pairwise similarity matrices and create simple distance-based clustering visualization.
 
 
 ## Workload distribution:
@@ -41,5 +41,5 @@ Sequence alignment is fundamental to bioinformatics for comparing proteins and u
 
 ## Datasets:
 
-- NCBI Protein Database - Mammalian hemoglobin α chains (100 sequences)
+- NCBI Protein Database - Mammalian hemoglobin α chains 
 https://www.ncbi.nlm.nih.gov/protein/?term=hemoglobin+alpha+AND+Mammalia[Organism]
